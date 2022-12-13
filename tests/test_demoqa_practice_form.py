@@ -1,5 +1,5 @@
 from selene.support.shared import browser
-from selene import command, have
+from selene import have
 import os
 
 
